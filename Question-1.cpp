@@ -17,8 +17,8 @@ class student{
         }
 
         void show(){
-        cout << "Name of student is: " <<name<<endl;
-        cout << "Roll no of student is: "<<roll_no<<endl;
+        cout << "Name of student is: " << name << endl;
+        cout << "Roll no of student is: "<< roll_no << endl;
         }
 };
 
