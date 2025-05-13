@@ -5,20 +5,21 @@ class student{
     private: string name;
              int roll_no;
 
-    public: void studentname(){
+    public: 
+        void studentname(){
         cout << "Enter name: ";
         cin >> name;
-    }
+        }
 
-    void studentroll_no(){
+        void studentroll_no(){
         cout << "Enter roll_no: ";
         cin >> roll_no;
-    }
+        }
 
-    void show(){
+        void show(){
         cout << "Name of student is: " <<name<<endl;
         cout << "Roll no of student is: "<<roll_no<<endl;
-    }
+        }
 };
 
 int main(){
