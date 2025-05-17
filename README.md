@@ -39,10 +39,28 @@
 <b>Question-10</b>
 <br>
 <p>Write a program that would print the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee'. The output should be as follows: 
-Name         Year of joining    Address 
-Robert       1994               64C- WallsStreat 
-Sam          2000               68D- WallsStreat 
-John         1999               26B- WallsStreat 
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Year of joining</th>
+        <th>Address</th>
+    </tr>
+    <tr>
+        <td>Robert</td>
+        <td>1994</td>
+        <td>64C- WallsStreat</td>
+    </tr>
+    <tr>
+        <td>Sam</td>
+        <td>2000</td>
+        <td>68D- WallsStreat</td>
+    </tr>
+    <tr>
+        <td>John</td>
+        <td>1999</td>
+        <td>26B- WallsStreat</td>
+    </tr>                   
+</table>
 </p>
 <br>
 <b>Question-11</b>
