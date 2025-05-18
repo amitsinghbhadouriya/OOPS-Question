@@ -87,3 +87,31 @@ The Matrix class has functions for each of the following: <br>
 4 - adding two matrices. <br>
 5 - multiplying the two matrices <br> 
 You can assume that the dimensions are correct for the multiplication and addition. </p>
+<br>
+<b>Question-14</b>
+<br>
+<p>Create a class Stack with one array of size 10 and top as data member. Set top=-1 in constructor. Create push and pop operation and handle overflow and underflow.</p>
+<br>
+<b>Question-15</b>
+<br>
+<p>Write a C++ program to implement a class called BankAccount that has private member variables for account number and balance. Include member functions to deposit and withdraw money from the account.</p>
+<br>
+<b>Question-16</b>
+<br>
+<p>Write a C++ program to create a class called Triangle that has private member variables for the lengths of its three sides. Implement member functions to determine if the triangle is equilateral, isosceles, or scalene.</p>
+<br>
+<b>Question-17</b>
+<br>
+<p>Write a C++ program that defines an inline function containing two arguments, first is for salary of an employee and second is the percent value by which salary is to be increased. Passes these two values to the function and display increased salary.</p>
+<br>
+<b>Question-18</b>
+<br>
+<p>Write a C++ program to implement a class called Shape with virtual member functions for calculating area and perimeter. Derive classes such as Circle, Rectangle, and Triangle from the Shape class and override virtual functions accordingly.</p>
+<br>
+<b>Question-19</b>
+<p>Create a base class called Shape with a virtual function area(). Derive classes Rectangle and Circle from Shape and implement the area() function for each.</p>
+<br>
+<b>Question-20</b>
+<br>
+<p>Create a class called SOLID containing float type data radius, height and member functions getdata() and pure virtual function volume(). Now create two derived classes SPHERE, and CYLINDER and redefine pure virtual function in each derived class so that it gives volume of corresponding solid. Display the volumes of each solid.</p>
+<br>
