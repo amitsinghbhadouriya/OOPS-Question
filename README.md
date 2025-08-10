@@ -127,4 +127,6 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Create an abstract base class Person with attributes like name and age. Include pure virtual function for displaying details and calculate salary.</p>
 <br>
-<b>
+<b>Question-24</b>
+<br>
+<p>Create class ABC with an integer member and class PQR with an integer member. Provide the function for entering the values. Define a functions that can access the properties of both classes without inherit them.</p>
