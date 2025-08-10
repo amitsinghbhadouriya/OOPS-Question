@@ -119,3 +119,8 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Create a class representing a BankAccount with attributes like account number, account holder name, and balance. Use the 'this' pointer to differentiate between the member variables and method parameters.</p>
 <br>
+<b>Question-22</b>
+<br>
+<p>Write a program to create two classes named EMPLOYEE and SALARY, SALARY class is publically inherited from EMPLOYEE class. EMPLOYEE class having data member EMP_ID, Emp_name, Designation and one function Get_data, SALARY class also having their own data member BP(Basic Pay), HRA(House Rent Allowance), DA(Dearness Allowance), PF(Provident Fund), NP(Net Pay) and three functions Get_data(), Calculate() For calculating Net Pay, Display(). Receive values from user and display the details of five employees.</p>
+<br>
+<b>
