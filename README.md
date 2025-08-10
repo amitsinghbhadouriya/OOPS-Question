@@ -115,3 +115,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Create a class called SOLID containing float type data radius, height and member functions getdata() and pure virtual function volume(). Now create two derived classes SPHERE, and CYLINDER and redefine pure virtual function in each derived class so that it gives volume of corresponding solid. Display the volumes of each solid.</p>
 <br>
+<b>Question-21</b>
+<br>
+<p>Create a class representing a BankAccount with attributes like account number, account holder name, and balance. Use the 'this' pointer to differentiate between the member variables and method parameters.</p>
+<br>
