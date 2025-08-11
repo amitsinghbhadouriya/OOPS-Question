@@ -130,3 +130,11 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-24</b>
 <br>
 <p>Create class ABC with an integer member and class PQR with an integer member. Provide the function for entering the values. Define a functions that can access the properties of both classes without inherit them.</p>
+<br>
+<b>Question-25</b>
+<br>
+<p>Write a program in c++ to demonstrate the all possible uses of scope resolution operator.</p>
+<br>
+<b>Question-26</b>
+<br>
+<p>Create class Distance with Kilometer and meter as private member; define function for input and output. Add the distance using the concept of call by value and subtract the distance using call by reference.</p>
