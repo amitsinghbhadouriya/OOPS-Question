@@ -138,3 +138,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-26</b>
 <br>
 <p>Create class Distance with Kilometer and meter as private member; define function for input and output. Add the distance using the concept of call by value and subtract the distance using call by reference.</p>
+<br>
+<b>Question-27</b>
+<br>
+<p>Create a class visitor with details of visitor name, visitor number, and contact details. Write a function for display visitor details. Display the number of visitors.</p>
