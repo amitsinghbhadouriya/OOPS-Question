@@ -142,3 +142,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-27</b>
 <br>
 <p>Create a class visitor with details of visitor name, visitor number, and contact details. Write a function for display visitor details. Display the number of visitors.</p>
+<br>
+<b>Question-28</b>
+<br>
+<p>Create a class called TIME having hours, minutes and seconds. One constructor should initialize this to 0 (Zero) and another should initialize it to fixed values. A member function Display(), responsible to get time from user. Write a C++ program to overload + operator, add two times and display the result.</p>
