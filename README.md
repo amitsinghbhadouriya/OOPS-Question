@@ -146,3 +146,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-28</b>
 <br>
 <p>Create a class called TIME having hours, minutes and seconds. One constructor should initialize this to 0 (Zero) and another should initialize it to fixed values. A member function Display(), responsible to get time from user. Write a C++ program to overload + operator, add two times and display the result.</p>
+<br>
+<b>Question-29</b>
+<br>
+<p>Create a class called DISTANCE that has separate integer data member for Kilometer, meter and centimeter. One constructor should initialize this to 0(Zero) and another should initialize it to fixed values. A member function Distance(), responsible to display it in Kilometer. Meter: Centimeter format and another member function Get_distance(), responsible to get distance from user. Now overload binary + operator each that you can add two objects of the class DISTANCE.</p>
