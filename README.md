@@ -158,4 +158,8 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-31</b>
 <br>
 <p>Create class 'Student' with name, rollno, and course. Write a program to demonstrate construtor overloading and deconstructor.</p>
-</br>
+<br>
+<b>Question-32</b>
+<br>
+<p>Write a program to demonstrate the concept of static data and static member function.</p>
+<br>
