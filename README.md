@@ -154,3 +154,8 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-30</b>
 <br>
 <p>Define a class POINT to store the coordinates of point with member functions to read the coordinates and display the coordinates. Define a derived class D with the additional capability to store the distance from the origin. Write two additional member functions to calculate and display the distance from the origin. Write a complete C++ program using the classes defined above to read the coordinates of a point and find and display its distance from origin.</p>
+<br>
+<b>Question-31</b>
+<br>
+<p>Create class 'Student' with name, rollno, and course. Write a program to demonstrate construtor overloading and deconstructor.</p>
+</br>
