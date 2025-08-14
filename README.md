@@ -163,3 +163,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Write a program to demonstrate the concept of static data and static member function.</p>
 <br>
+<b>Question-33</b>
+<br>
+<p>Write a program to demonstrate various types of inheritance in a program.</p>
+<br>
