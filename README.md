@@ -190,3 +190,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-39</b>
 <br>
 <p>Create a base class called Animal with a virtual function makeSound(). Derive classes Dog and Cat from Animal and override the makeSound() function.</p>
+<br>
+<b>Question-40</b>
+<br>
+<p>Create an abstract base class called Person with attributes like name and age. Include pure virtual functions for displaying details and calculating salary.</p>
