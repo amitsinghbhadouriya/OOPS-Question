@@ -178,3 +178,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-36</b>
 <br>
 <p>EMPLOYEE class having data member Emp_ID, Emp_name, Designation and one function Get_data, SALARY class also having their own data member BP(Basic Pay), HRA(House Rent Allowance), and DA(Dearness Allowance). Write a program to show employee details without using the member function.</p>
+<br>
+<b>Question-37</b>
+<br>
+<p>Create a class representing a Vehicle with attributes like make, model, year, and mileage. Implement methods to set and get these attributes. Show above details with respect in Car, Bike and Bus.</p>
