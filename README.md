@@ -167,3 +167,6 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Write a program to demonstrate various types of inheritance in a program.</p>
 <br>
+<b>Question-34</b>
+<br>
+<p>EMPLOYEE class having data member Emp_ID, Emp_name, Designation and one function Get_data, SALARY class also having their own data member BP(Basic Pay), HRA(House Rent Allowance), and DA(Dearness Allowance). Write a program to show employee details along with NET Pay using concept of Aggregation.</p>
