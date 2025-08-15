@@ -170,3 +170,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-34</b>
 <br>
 <p>EMPLOYEE class having data member Emp_ID, Emp_name, Designation and one function Get_data, SALARY class also having their own data member BP(Basic Pay), HRA(House Rent Allowance), and DA(Dearness Allowance). Write a program to show employee details along with NET Pay using concept of Aggregation.</p>
+<br>
+<b>Question-35</b>
+<br>
+<p>Create a class called SOLID containing float type data radius, height and member function getdata(). Now create class SPHERE, Display the volumes of each SPHERE using concept of Composition.</p>
