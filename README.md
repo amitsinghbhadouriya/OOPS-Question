@@ -182,3 +182,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-37</b>
 <br>
 <p>Create a class representing a Vehicle with attributes like make, model, year, and mileage. Implement methods to set and get these attributes. Show above details with respect in Car, Bike and Bus.</p>
+<br>
+<b>Question-38</b>
+<br>
+<p>Write a program to overload the '<<' operator to print the details of a student object.</p>
