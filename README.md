@@ -186,3 +186,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-38</b>
 <br>
 <p>Write a program to overload the '<<' operator to print the details of a student object.</p>
+<br>
+<b>Question-39</b>
+<br>
+<p>Create a base class called Animal with a virtual function makeSound(). Derive classes Dog and Cat from Animal and override the makeSound() function.</p>
