@@ -204,3 +204,8 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>d.</b> Define a friend function named compareAges outside the Person class that takes two Person objects and compares their ages. Display a message indicating which person is older.<br>
 <b>e.</b> Implement a copy constructor for the Student class to create a copy of a student object.<br>
 <b>f.</b> Utilize dynamic memory allocation to create a Person object and prompt the user to input details like name and age.</p>
+<br>
+<b>Question-42</b>
+<br>
+<p>Use function templates to implement a generic function called swapValues that swaps two values of any data type.</p>
+<br>
