@@ -229,3 +229,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Write a program to create test.txt file, add text in it "I love OOPs", and write a method to display the content of test.txt.</p>
 <br>
+<b>Question-48</b>
+<br>
+<p>Write a C++ Program for finding the minimum value contained in an array using function template. Justify your program for integer array and float array.</p>
+<br>
