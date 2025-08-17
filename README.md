@@ -194,3 +194,13 @@ You can assume that the dimensions are correct for the multiplication and additi
 <b>Question-40</b>
 <br>
 <p>Create an abstract base class called Person with attributes like name and age. Include pure virtual functions for displaying details and calculating salary.</p>
+<br>
+<b>Question-41</b>
+<br>
+<p>Create an abstract base class called Person with attributes like name and age.<br>
+<b>a.</b> Include pure virtual functions for displaying details and calculating salary.<br>
+<b>b.</b> Derive a class Student from Person, with additional attributes like rollNumber and grade. Implement necessary methods to set and get these attributes.<br>
+<b>c.</b> Create another class called Teacher, also derived from Person, with attributes like employeeID and subject. Implement necessary methods to set and get these attributes.<br>
+<b>d.</b> Define a friend function named compareAges outside the Person class that takes two Person objects and compares their ages. Display a message indicating which person is older.<br>
+<b>e.</b> Implement a copy constructor for the Student class to create a copy of a student object.<br>
+<b>f.</b> Utilize dynamic memory allocation to create a Person object and prompt the user to input details like name and age.</p>
