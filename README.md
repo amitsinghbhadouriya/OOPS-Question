@@ -221,3 +221,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Write a C++ Program to add two numbers using function template.</p>
 <br>
+<b>Question-46</b>
+<br>
+<p>Write a C++ program for finding the minimum value contained in an array using function template.</p>
+<br>
