@@ -213,3 +213,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Define a class template called Container to hold a dynamic array of any data type. Include methods to add elements, and display all elements.</p>
 <br>
+<b>Question-44</b>
+<br>
+<p>Implement exception handling to handle scenarios like division by zero or invalid user input throughout the program.</p>
+<br>
