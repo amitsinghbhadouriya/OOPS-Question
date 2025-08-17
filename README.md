@@ -209,3 +209,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Use function templates to implement a generic function called swapValues that swaps two values of any data type.</p>
 <br>
+<b>Question-43</b>
+<br>
+<p>Define a class template called Container to hold a dynamic array of any data type. Include methods to add elements, and display all elements.</p>
+<br>
