@@ -217,3 +217,7 @@ You can assume that the dimensions are correct for the multiplication and additi
 <br>
 <p>Implement exception handling to handle scenarios like division by zero or invalid user input throughout the program.</p>
 <br>
+<b>Question-45</b>
+<br>
+<p>Write a C++ Program to add two numbers using function template.</p>
+<br>
